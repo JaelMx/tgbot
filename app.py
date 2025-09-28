@@ -664,9 +664,9 @@ async def process_product_telegram(product_id: str, base_url: str, update: Updat
                 InlineKeyboardButton("Best Deals", url="https://s.click.aliexpress.com/e/_c3vzmmUb")
             ],
             [
-                InlineKeyboardButton("Facebook Group", url="https://www.facebook.com/groups/1045692797590703"),
-                InlineKeyboardButton("Facebook", url="https://www.facebook.com/ofertonesaliexpress"),
-                InlineKeyboardButton("Telegram", url="https://t.me/aliexpress_ofertones")
+                InlineKeyboardButton("🪙 Collect Coins 🪙", url="https://s.click.aliexpress.com/e/_c3KFaEiX"),
+                InlineKeyboardButton("👤 Facebook 👤", url="https://www.facebook.com/ofertonesaliexpress"),
+                InlineKeyboardButton("📨 Telegram 📨", url="https://t.me/aliexpress_ofertones")
             ],
             [
                 InlineKeyboardButton("🏷️ +Descuentos/Deals", url="ofertonesaliexpress.blogspot.com")
